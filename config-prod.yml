@@ -1,3 +1,2 @@
-spring:
-  profile:
-  comment: Hello, prod!
+test:
+  message: prod test

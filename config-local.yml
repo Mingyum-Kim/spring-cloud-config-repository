@@ -1,3 +1,2 @@
-spring:
-  profile: local
-  comment: Hello, local!
+test:
+  message: local test
